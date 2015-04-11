@@ -1,0 +1,14 @@
+<!--
+  ~ Copyright (c) 2015 APRIJAL PASARIBU.
+  -->
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.google.android.gms">
+	<uses-sdk android:minSdkVersion="9"/>
+    <application>
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+    </application>
+
+</manifest>
